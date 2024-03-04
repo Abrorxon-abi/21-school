@@ -1,0 +1,3 @@
+Visual Studio Code
+cd door_management_files/door_configuration
+sed -i 's/STATUS: CLOSED/STATUS: OPEN/' door_1.conf
